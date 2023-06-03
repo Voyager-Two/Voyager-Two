@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-Professional GitHub account.
+This is my professional GitHub account.
 
-Latest skills demonstration (code): https://github.com/Emre-Zero/whispercast
+Projects: 
 
-Skills demonstration (1 year out-of-date): https://github.com/Voyager-Two/tech-demo
+- https://github.com/Emre-Zero/whispercast
 
-You may also see my personal GitHub account for projects: https://github.com/Emre-Zero
+- https://ball-e.app/
+
+- Skills demonstration (1 year out-of-date): https://github.com/Voyager-Two/tech-demo
+
+You may also see my personal GitHub account: https://github.com/Emre-Zero
