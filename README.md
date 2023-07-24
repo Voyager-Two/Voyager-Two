@@ -8,6 +8,6 @@ Projects:
 
 - https://ball-e.app/
 
-- Skills demonstration (1 year out-of-date): https://github.com/Voyager-Two/tech-demo
+- Skills demonstration: https://github.com/Voyager-Two/tech-demo
 
 You may also see my personal GitHub account: https://github.com/Emre-Zero
