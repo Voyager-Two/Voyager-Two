@@ -4,7 +4,7 @@ This is my **professional** GitHub account.
 
 Projects: 
 
-- https://github.com/Emre-Zero/whispercast
+- https://github.com/Voyager-Two/whispercast
 
 - https://ball-e.app/
 
