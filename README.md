@@ -10,4 +10,4 @@ Projects:
 
 - Skills demonstration: https://github.com/Voyager-Two/tech-demo
 
-You may also see my personal GitHub account: https://github.com/Emre-Zero
+Personal GitHub account: https://github.com/Emre-Zero
