@@ -4,4 +4,6 @@
 
 - Skills demonstration: https://github.com/Voyager-Two/tech-demo
 
-- Project: https://ball-e.app/
+- Project (closed source): https://ball-e.app/
+
+- Old project: https://github.com/Voyager-Two/gotrade.plus
