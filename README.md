@@ -6,7 +6,7 @@
 
 - AI demo/project: https://github.com/Voyager-Two/whispercast
 
-- Project (closed source): https://ball-e.app/
+- AI project (closed source): https://ball-e.app/
 
 ---
 
