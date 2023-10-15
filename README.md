@@ -2,7 +2,7 @@
 
 - Payment skills demo: https://github.com/Voyager-Two/stripe-demo
 
-- AI side-project (open source): https://github.com/Voyager-Two/whispercast
+- AI project (open source): https://github.com/Voyager-Two/whispercast
 
 - E-commerce UI demo: https://github.com/Voyager-Two/marketplace-demo
 
