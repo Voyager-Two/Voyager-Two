@@ -3,7 +3,7 @@
 #### Payment skills demo:
 
 - Site: [stripe.emre.earth](https://stripe.emre.earth)
-- Source code: https://github.com/Voyager-Two/stripe-demo
+- Source code: [github.com/Voyager-Two/stripe-demo](https://github.com/Voyager-Two/stripe-demo)
 
 #### Podcast search engine (utilizing OpenAI)
 - Site: [whispercast.emre.earth](https://whispercast.emre.earth)
