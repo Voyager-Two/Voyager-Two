@@ -9,7 +9,7 @@
 - Site: [whispercast.emre.earth](https://whispercast.emre.earth)
 - Source code: [github.com/Voyager-Two/whispercast](https://github.com/Voyager-Two/whispercast)
 
-#### Discord AI bot
+#### Discord AI bot (utilizing OpenAI)
 
 - Site: https://ball-e.app/
 
