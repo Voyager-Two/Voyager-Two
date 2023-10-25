@@ -1,13 +1,22 @@
-### Hello there 👋
+## Hello there 👋
 
-- Payment skills demo: https://github.com/Voyager-Two/stripe-demo
+#### Payment skills demo:
 
-- AI project (open source): https://github.com/Voyager-Two/whispercast
+- Site: [https://stripe.emre.earth](https://stripe.emre.earth)
+- Source code: https://github.com/Voyager-Two/stripe-demo
 
-- E-commerce UI demo: https://github.com/Voyager-Two/marketplace-demo
+#### Podcast search engine (utilizing OpenAI)
+- Site: [https://whispercast.emre.earth](https://whispercast.emre.earth)
+- Source code: https://github.com/Voyager-Two/whispercast
 
-- AI project (closed source): https://ball-e.app/
+#### Discord AI bot
 
----
+- Site: https://ball-e.app/
 
-- Outdated Node.js project: https://github.com/Voyager-Two/gotrade.plus
+#### E-commerce UI demo (for job application)
+- Site: [https://marketplace.emre.earth](https://marketplace.emre.earth/)
+- Source code: https://github.com/Voyager-Two/marketplace-demo
+
+#### Reddit search engine
+- Site: [https://gotrade.emre.earth](https://gotrade.emre.earth)
+- Source code: https://github.com/Voyager-Two/gotrade.plus
