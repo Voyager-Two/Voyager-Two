@@ -35,7 +35,3 @@ Below are projects as demonstration of my skills:
 - Site: [gotrade.emre.earth](https://gotrade.emre.earth)
 - Source code: [github.com/Voyager-Two/gotrade.plus](https://github.com/Voyager-Two/gotrade.plus)
 - Tech: Node.js, VanillaJS
-
----
-
- ![](https://komarev.com/ghpvc/?username=Voyager-Two&color=blue)
