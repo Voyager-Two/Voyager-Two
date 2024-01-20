@@ -22,11 +22,6 @@ Below are projects as demonstration of my skills:
 - Brings power of ChatGPT to a social setting inside Discord.
 - Used by over 100 servers.
 
-#### PHP / Laravel - Fully-featured Ecommerce Marketplace
-- Fully featured virtual item marketplace
-- Was once a live commercial site, released as open source.
-- Source code: [github.com/Voyager-Two/marketplace-php](https://github.com/Voyager-Two/marketplace-php)
-
 #### Next.js E-commerce UI demo (for job application)
 - Site: [marketplace.emre.earth](https://marketplace.emre.earth/)
 - Source code: [github.com/Voyager-Two/marketplace-demo](https://github.com/Voyager-Two/marketplace-demo)
