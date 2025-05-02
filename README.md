@@ -2,6 +2,12 @@
 
 Below are projects as demonstration of my skills:
 
+#### Featured / latest project:
+
+- Site: [onechat.bot](https://onechat.bot)
+- A unified chat interface for LLMs.
+- Tech: Next.js, React, Typescript, Material UI (switching to Mantine UI), and will open source also
+
 #### Payment skills demo:
 
 - Site: [stripe.emre.earth](https://stripe.emre.earth)
