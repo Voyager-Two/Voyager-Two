@@ -10,7 +10,7 @@ Below are projects as demonstration of my skills:
 
 #### Swapify (skills demo):
 - Site: [Swapify](https://swapify-olive.vercel.app/)
-- Skills demo
+- Source code: [github.com/Voyager-Two/swapify](https://github.com/Voyager-Two/swapify)
 
 #### Payment skills demo:
 
