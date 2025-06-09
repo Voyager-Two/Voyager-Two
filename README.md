@@ -9,7 +9,7 @@ Below are projects as demonstration of my skills:
 - Tech: Next.js, React, Typescript, Material UI (switching to Mantine UI), and will open source also
 
 #### Swapify (skills demo):
-- Site: [Swapify](https://swapify-olive.vercel.app/)
+- Site: [Swapify](https://swapify.emre.earth)
 - Source code: [github.com/Voyager-Two/swapify](https://github.com/Voyager-Two/swapify)
 
 #### Payment skills demo:
