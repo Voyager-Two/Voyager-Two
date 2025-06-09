@@ -32,13 +32,6 @@ Below are projects as demonstration of my skills:
 - Brings power of ChatGPT to a social setting inside Discord.
 - Used by over 100 servers.
 
-#### Coinflip demo (for job application)
-- Source code: [github.com/Voyager-Two/coinflip-demo](https://github.com/Voyager-Two/coinflip-demo)
-
-#### Blackjack demo (for job application)
-- Site: https://demo-blackjack.vercel.app
-- Source code: [github.com/Voyager-Two/demo-blackjack](https://github.com/Voyager-Two/demo-blackjack)
-
 #### Node.js Reddit search engine
 - Site: [gotrade.emre.earth](https://gotrade.emre.earth)
 - Source code: [github.com/Voyager-Two/gotrade.plus](https://github.com/Voyager-Two/gotrade.plus)
