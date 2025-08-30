@@ -31,8 +31,3 @@ Below are projects as demonstration of my skills:
 - An AI assistant, integrated inside Discord, powered by OpenAI GPT.
 - Brings power of ChatGPT to a social setting inside Discord.
 - Used by over 100 servers.
-
-#### Node.js Reddit search engine
-- Site: [gotrade.emre.earth](https://gotrade.emre.earth)
-- Source code: [github.com/Voyager-Two/gotrade.plus](https://github.com/Voyager-Two/gotrade.plus)
-- Tech: Node.js, VanillaJS
