@@ -27,7 +27,7 @@ Below are projects as demonstration of my skills:
 
 #### Discord AI bot (utilizing OpenAI)
 
-- Site: https://ball-e.emre.earth/
+- Site: [ball-e.emre.earth](https://ball-e.emre.earth)
 - An AI assistant, integrated inside Discord, powered by OpenAI GPT.
 - Brings power of ChatGPT to a social setting inside Discord.
 - Used by over 100 servers.
