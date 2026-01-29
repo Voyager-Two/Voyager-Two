@@ -12,6 +12,9 @@ Below are projects as demonstration of my skills:
 - Site: [Swapify](https://swapify.emre.earth)
 - Source code: [github.com/Voyager-Two/swapify](https://github.com/Voyager-Two/swapify)
 
+#### iMessage Scheduler (skills demo):
+- Source code: [github.com/Voyager-Two/imessage-scheduler](https://github.com/Voyager-Two/imessage-scheduler)
+
 #### Payment skills demo:
 
 - Site: [stripe.emre.earth](https://stripe.emre.earth)
